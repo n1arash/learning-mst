@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Can Add TodoListItem to TodoList 1`] = `
+Object {
+  "items": Array [
+    Object {
+      "completed": true,
+      "id": "1",
+      "title": "Start Learning MST",
+    },
+  ],
+}
+`;
